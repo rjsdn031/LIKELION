@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 100%;
+    height: 2050px;
+}
+
+#top-cover {
+    width: 100%;
+    height: 200px;
+    background-image: url(img/ash-from-modern-afflatus-NQ6Lh81BTRs-unsplash.jpg);
+    background-size: cover;
+}
+
+
+.mbti {
+    border-radius: 200px;
+}
