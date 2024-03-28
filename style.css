@@ -10,24 +10,45 @@
 
 #top-cover {
     width: 100%;
-    height: 300px;
+    height: 200px;
     padding-top: 200px;
-    background-image: url(img/ash-from-modern-afflatus-NQ6Lh81BTRs-unsplash.jpg);
+    background-image: url("img/ash-from-modern-afflatus-NQ6Lh81BTRs-unsplash.jpg");
     background-size: cover;
 }
 
-#name-plate {
+#nameplate {
     width: 80%;
-    height: 150px;
+    height: 70px;
     margin: 0 auto;
+    padding: 50px 0;
     background-color: rgb(255, 255, 255, 0.7);    
 }
 
+.profile {
+    padding: 50px 0;
+}
+
+#profile-img {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: aqua;
+    background-image: url("img/profile_ad.jpg");
+    background-size: cover;
+    border-radius: 300px;
+}
+
+#profile_disc {
+    width: 500px;
+    height: 700px;
+}
+
 .mbti {
+    background-image: url("img/enfj.jpg");
     border-radius: 200px;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 45px;
     text-align: center;
 }
